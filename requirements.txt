@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+piecewise-regression
+scipy
+scikit-learn
+statsmodels
+joblib
+jupyter
