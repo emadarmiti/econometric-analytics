@@ -37,7 +37,7 @@ To run the Jupyter notebooks you need to install the libraries exist in `require
 
 1. Create virtual environment
 ```bash
-python -m venv venv
+python -m venv myenv
 ```
 
 2. Activate virtual environment 
